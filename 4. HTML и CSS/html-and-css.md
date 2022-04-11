@@ -478,15 +478,15 @@ description) служит для описания термина. Приведе
 
 ```html
 <div>
-  <input type="radio" id="radio-1">
+  <input type="radio" id="radio-1" name="radioname">
   <label for="radio-1">Яблоко</label>
 </div>
 <div>
-  <input type="radio" id="radio-2">
+  <input type="radio" id="radio-2" name="radioname">
   <label for="radio-2">Груша</label>
 </div>
 <div>
-  <input type="radio" id="radio-3">
+  <input type="radio" id="radio-3" name="radioname">
   <label for="radio-3">Гранат</label>
 </div>
 ```
